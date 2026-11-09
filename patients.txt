@@ -1,0 +1,5 @@
+
+101|Rahul Sharma|25|Fever
+102|Amit Patil|32|Malaria
+103|Priya Shah|28|Cold
+104|Sneha Joshi|40|Migraine
